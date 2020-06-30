@@ -1,0 +1,36 @@
+
+body {
+  background-color: #f0f0f0; 
+}
+
+p {
+    line-height: 50%;
+    margin-left: 5px;
+   }
+
+ form {
+  border: 2px solid #c6c7cc;
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  overflow: hidden;
+  width: 240px;
+}
+input {
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+#form2
+{
+margin-top: -380px;
+margin-left: 400px;	
+}
+#result_form_2
+{
+margin-left: 400px;
+margin-top: -190px;
+}
+#result_form_1
+{
+margin-top: 200px;
+}
